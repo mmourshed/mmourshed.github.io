@@ -184,7 +184,7 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 ### 2003
 
-* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2003) ArDOT: A tool to optimize environmental design of buildings. In: Proceedings of Building Simulation 2003 – Eighth International IBPSA Conference, International Building Performance Simulation Association (IBPSA), Eindhoven, Netherlands, pp. 919-926.
+* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [Keane MM](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)(https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2003) ArDOT: A tool to optimize environmental design of buildings. In: Proceedings of Building Simulation 2003 – Eighth International IBPSA Conference, International Building Performance Simulation Association (IBPSA), Eindhoven, Netherlands, pp. 919-926.
 
 ### 2002
 
@@ -192,7 +192,7 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 ### 2001
 
-* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2001) Spatial representation in product modelling. In: E Banissi et al. (eds), Fifth International Conference on Information Visualisation (IV’01).
+* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [Keane MM](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)(https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2001) Spatial representation in product modelling. In: E Banissi et al. (eds), Fifth International Conference on Information Visualisation (IV’01).
 London, UK: IEEE Computer Society, pp. 651-656. DOI: [10.1109/IV.2001.942125](http://dx.doi.org/10.1109/IV.2001.942125)
 
 ## Conference (non peer-reviewed)
