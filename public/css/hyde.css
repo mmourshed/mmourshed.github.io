@@ -45,6 +45,15 @@ html {
   }
 }
 
+/*
+ * Small fonts
+ *
+ */
+p.small {
+  font-size: .85rem;
+}
+
+
 
 /*
  * Sidebar
@@ -232,6 +241,15 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
+/* DarkBlue */
+.theme-base-0d2 .sidebar {
+  background-color: #015F87;
+}
+.theme-base-0d2 .content a,
+.theme-base-0d2 .related-posts li a:hover {
+  color: #015F87;
+}
+
 /* Magenta */
 .theme-base-0e .sidebar {
   background-color: #aa759f;
@@ -255,4 +273,5 @@ a.sidebar-nav-item:focus {
 
 .img-circle {
     border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, .5);
 }

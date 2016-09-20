@@ -2,10 +2,8 @@
 layout: page
 title: About
 ---
+I am Senior Lecturer in Sustainable Engineering at the School of Engineering, Cardiff University, UK.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
@@ -27,4 +25,8 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading!  
+
+<p class="message">
+  Disclaimer: The views presented on this website are my own and do not reflect the opinion of Cardiff University or the organisations I work with. 
+</p>
