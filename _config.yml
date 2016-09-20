@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Monjur Mourshed
+tagline:          'Smart and resilient urban environments'
+description:      'I am <a href="http://www.engin.cf.ac.uk/whoswho/profile.asp?RecordNo=946" target="_blank">Senior Lecturer in Sustainable Engineering</a> at <a href="http://cardiff.ac.uk" target="_blank">Cardiff University</a>, UK.'
+url:              http://m.mourshed.org
+baseurl:          /
+
+author:
+  name:           'Monjur Mourshed'
+  url:            https://twitter.com/mmourshed
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mmourshed
+
+# Gems
+gems: [jekyll-paginate,  jekyll-gist]
