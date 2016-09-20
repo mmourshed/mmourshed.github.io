@@ -178,7 +178,7 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 ### 2006
 
-* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2006) Optimised Building Form for Environmental Sustainability. In: Proceedings of Global Built Environment: Towards an Integrated Approach for Sustainability, 11–12 September 2006, Preston: Global Built Environment Network and University of Central Lancashire, pp. 217-228.
+* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [Keane MM](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)(https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2006) Optimised Building Form for Environmental Sustainability. In: Proceedings of Global Built Environment: Towards an Integrated Approach for Sustainability, 11–12 September 2006, Preston: Global Built Environment Network and University of Central Lancashire, pp. 217-228.
 
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2006) Development of a Distance-learning based Post-Graduate Programme on Sustainable Architecture. In: Proceedings of Global Built Environment: Towards an Integrated Approach for Sustainability, 11–12 September 2006, Preston, UK: Global Built Environment Network and University of Central Lancashire, pp. 43-50.
 
