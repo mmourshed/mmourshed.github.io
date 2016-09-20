@@ -90,6 +90,8 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 ## Conference (peer-reviewed)
 
+### 2016
+
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Bucchiarone A, Khandokar F (2016) SMART: A process-oriented methodology for resilient smart cities, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September. [Accepted]
 
 * Yuce B, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Rana O, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Preserving Prosumer Privacy in a District Level Smart Grid, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12– 15 September. [Accepted]
@@ -108,6 +110,8 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 * Ameen RFM, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) Environmental, social and economic challenges for urban development: Stakeholders perception in a developing economy, In: Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE2016), Osaka, Japan, 6–8 July.
 
+### 2015
+
 * Kadhim NMSM, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Bray M (2015) Automatic extraction of urban structures based on shadow information from satellite imagery, In: Proceedings of BS2015: 14th Conference of International Building Performance Simulation Association, Hyderabad, India, 7–9 December, pp. 2607–2614.
 
 * Ahmad M, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Hippolyte J-LH, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ), Li H (2015) Optimising the scheduled operation of window blinds to enhance occupant comfort, In: Proceedings of BS2015: 14th Conference of International Building Performance Simulation Association, Hyderabad, India, 7–9 December, pp. 2393–2400.
@@ -120,15 +124,25 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 * Dowd RM, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2015) Low carbon buildings: Sensitivity of thermal properties of opaque envelope construction and glazing, Energy Procedia, 75:1284–1289. Proceedings of the 7th International Conference on Applied Energy, 28–31 March, Dubai, UAE. DOI: [10.1016/j.egypro.2015.07.189](http://dx.doi.org/10.1016/j.egypro.2015.07.189)
 
+### 2014
+
 * Ameen RFM, Li H, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2014) Sustainability assessment methods of urban design: A review, In: Proceedings of the 21st International Workshop on Intelligent Computing in Engineering, European Group for Intelligent Computing in Engineering (EG-ICE), 16–18 July, Cardiff.
 
 * Alreshidi E, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2014) Exploring the need for a BIM governance model: UK construction practitioners’ perceptions, In: Proceedings of the International Conference on Computing in Civil and Building Engineering, Orlando, FL, 23-25 June, pp. 151–158. DOI: [10.1061/9780784413616.020](http://dx.doi.org/10.1061/9780784413616.020)
 
+### 2013
+
 * Georgiou G, Eftekhari M, Eames P, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2013) A study of the effect of weighting indices for the development of TMY used for building simulation. In: Proceedings of BS2013: 13th Conference of International Building Performance Simulation Association, pp. 922-929.
+
+### 2012
 
 * Ramlagan K, Sohail M, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2012) Cost and Energy Implication of Leakage in Water Supply Schemes in Ireland. In: Proceedings of the IWA World Congress on Water, Climate and Energy, May 13-18, 2012, The Convention Centre, Dublin, Ireland. London: International Water Association (IWA) Publishing.
 
+### 2011
+
 * Brownlee A, Wright JA, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2011) A multi-objective window optimisation problem. In: Proceedings of the 2011 Genetic and Evolutionary Computation Conference (GECCO), Association of Computing Machinery (ACM), Dublin, Ireland, pp. 89–90. DOI: [10.1145/2001858.2001910](http://dx.doi.org/10.1145/2001858.2001910)
+
+### 2010
 
 * Shikder S, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Price A (2010) Luminaire position optimisation using radiance based simulation: a test case of a senior living room. In: W Tizani (ed), Proceedings of the International Conference on Computing in Civil and Building Engineering (ICCCBE-2010), 30 June-2 July, Nottingham, UK, Nottingham University Press, p. 379.
 
@@ -137,6 +151,8 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 * Shikder S, Price A, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2010) A Systematic Review on the Therapeutic Lighting Design for the Elderly. In 18th CIB World Building Congress. Salford, United Kingdom: CIB W084 - Building Comfortable Environments for All, pp. 65–79.
 
 * Shikder S, Price A, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2010) Interactive constraint-based space layout planning. In: 18th CIB World Building Congress. Salford, United Kingdom: CIB W070 - Facilities Management and Maintenance, pp. 112–122.
+
+### 2009
 
 * Wright J, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2009) Geometric Optimization of Fenestration. In: I Hensen and G. Augenbroe (eds), Building Simulation 2009 - Eleventh International IBPSA Conference. Glasgow, UK: International Building Performance Simulation Association (IBPSA), pp. 920–927.
 
@@ -160,13 +176,21 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 * Khandokar F, Price ADF, Paranagamage P, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Austin SA, Moobela C (2009) Barriers to the adoption of sustainability assessment tools in strategic decision making. In: Second International Conference on Whole Life Urban Sustainability and its Assessment (SUE-MoT 2009), 22–24 April, Loughborough: Loughborough University, pp. 793–804.
 
+### 2006
+
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2006) Optimised Building Form for Environmental Sustainability. In: Proceedings of Global Built Environment: Towards an Integrated Approach for Sustainability, 11–12 September 2006, Preston: Global Built Environment Network and University of Central Lancashire, pp. 217-228.
 
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2006) Development of a Distance-learning based Post-Graduate Programme on Sustainable Architecture. In: Proceedings of Global Built Environment: Towards an Integrated Approach for Sustainability, 11–12 September 2006, Preston, UK: Global Built Environment Network and University of Central Lancashire, pp. 43-50.
 
+### 2003
+
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2003) ArDOT: A tool to optimize environmental design of buildings. In: Proceedings of Building Simulation 2003 – Eighth International IBPSA Conference, International Building Performance Simulation Association (IBPSA), Eindhoven, Netherlands, pp. 919-926.
 
+### 2002
+
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Matipa W, Kelliher D, [Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2002) Towards interoperability: ICT in academic curricula for sustainable construction. In: CIB W107 1st International Conference: creating a sustainable construction industry in developing countries, 11-13 November 2002, Stellenbosch, South Africa.
+
+### 2001
 
 * [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Kelliher D, [[Keane M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ)M](https://scholar.google.co.uk/citations?user=pw77RZkAAAAJ) (2001) Spatial representation in product modelling. In: E Banissi et al. (eds), Fifth International Conference on Information Visualisation (IV’01).
 London, UK: IEEE Computer Society, pp. 651-656. DOI: [10.1109/IV.2001.942125](http://dx.doi.org/10.1109/IV.2001.942125)
