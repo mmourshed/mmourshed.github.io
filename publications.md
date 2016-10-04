@@ -7,7 +7,9 @@ title: Publications
 
 ### 2016
 
-* Alreshidi E, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, _Requirements Engineering_. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6)
+* Kadhim N, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (in press) Bray M. Advances in remote sensing applications for urban sustainability, Euro-Mediterranean Journal for Environmental Integration. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
+
+* Alreshidi E, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, _Requirements Engineering_. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
 
 * Chowdhury SA, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) Off-grid electrification with solar home systems: An appraisal of the quality of components, _Renewable Energy_, 97:585–598. DOI: [10.1016/j.renene.2016.06.017](http://dx.doi.org/10.1016/j.renene.2016.06.017)
 
@@ -15,13 +17,13 @@ title: Publications
 
 * Alreshidi E, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Cloud-based BIM governance platform requirements and specifications: Software engineering approach using BPMN and UML, _ASCE Journal of Computing in Civil Engineering_, 30(4):04015063. DOI: [10.1061/(ASCE)CP.1943-5487.0000539](http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000539) 
 
-* Yuce B, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ), [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) ANN-GA smart appliance scheduling for optimized energy management in the domestic sector, _Energy and Buildings_, 111:311–325. DOI: [10.1016/j.enbuild.2015.11.017](http://dx.doi.org/10.1016/j.enbuild.2015.11.017) 
+* [Yuce B](https://scholar.google.co.uk/citations?user=gUkjhA4AAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ), [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) ANN-GA smart appliance scheduling for optimized energy management in the domestic sector, _Energy and Buildings_, 111:311–325. DOI: [10.1016/j.enbuild.2015.11.017](http://dx.doi.org/10.1016/j.enbuild.2015.11.017) 
 
 * Al-Shaqi R, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Progress in ambient assisted systems for independent living by the elderly, _SpringerPlus_, 5:624. DOI: [10.1186/s40064-016-2272-8](http://dx.doi.org/10.1186/s40064-016-2272-8) 
 
 * Ahmad MW, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Mundow D, Sisinni M, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Building energy metering and environmental monitoring – A state-of-the-art review and directions for future research, _Energy and Buildings_, 120:85–102. Elsevier BV. PDF. DOI: [10.1016/j.enbuild.2016.03.059](http://dx.doi.org/10.1016/j.enbuild.2016.03.059) 
 
-* Ahmad MW, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Yuce B, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Computational intelligence techniques for HVAC systems: A review, _Building Simulation_, 9(4):359–398. Springer. PDF. DOI: [10.1007/s12273-016-0285-4](http://dx.doi.org/10.1007/s12273-016-0285-4) 
+* Ahmad MW, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Yuce B](https://scholar.google.co.uk/citations?user=gUkjhA4AAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Computational intelligence techniques for HVAC systems: A review, _Building Simulation_, 9(4):359–398. Springer. PDF. DOI: [10.1007/s12273-016-0285-4](http://dx.doi.org/10.1007/s12273-016-0285-4) 
 
 ### 2015
 
@@ -92,17 +94,17 @@ PDF. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.0
 
 ### 2016
 
-* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Bucchiarone A, Khandokar F (2016) SMART: A process-oriented methodology for resilient smart cities, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September. [Accepted]
+* [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Bucchiarone A, Khandokar F (2016) SMART: A process-oriented methodology for resilient smart cities, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September, pp. 775–780.
 
-* Yuce B, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Rana O, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Preserving Prosumer Privacy in a District Level Smart Grid, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12– 15 September. [Accepted]
+* [Yuce B](https://scholar.google.co.uk/citations?user=gUkjhA4AAAAJ), [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), Rana O, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Preserving Prosumer Privacy in a District Level Smart Grid, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12– 15 September. pp. 544–549.
 
-* Hippolyte J-LH, Howell S, Sleiman H, Vinyals M, Yuce B, Vanh´ee L, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) Ontologybased Demand-Side Flexibility Management in Smart Grids using a Multi-Agent System, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September. [Accepted]
+* Hippolyte J-LH, Howell S, Sleiman H, Vinyals M, [Yuce B](https://scholar.google.co.uk/citations?user=gUkjhA4AAAAJ), Vanh´ee L, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) Ontologybased Demand-Side Flexibility Management in Smart Grids using a Multi-Agent System, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September, pp. 537–543.
 
 * Ahmad MW, Hippolyte J-LH, Reynolds J, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) Optimal scheduling strategy for enhancing IAQ, visual and thermal comfort using a genetic algorithm, In: Proceedings of the ASHRAE IAQ 2016 – Defining Indoor Air Quality: Policy, Standards and Best Practices, Alexandria, VA, 12–14 September. [Accepted]
 
 * Howell S, [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ), Hippolyte J-L, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ) (2016) Holonic Energy Optimization of Connected Smart Homes and Distributed Energy Resources through Semantic Interoperability, In: 11th European Conference on Product and Process Modelling (ECPPM), Limassol, Cyprus, 7–9 September. [Accepted]
 
-* Yuce B, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) An ANN-based energy forecasting framework for the district level smart grids, In: 1st EAI International Conference on Smart Grid Inspired Future Technologies (SmartGIFT), Liverpool, UK, 19–20 May.
+* [Yuce B](https://scholar.google.co.uk/citations?user=gUkjhA4AAAAJ), [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) An ANN-based energy forecasting framework for the district level smart grids, In: 1st EAI International Conference on Smart Grid Inspired Future Technologies (SmartGIFT), Liverpool, UK, 19–20 May.
 
 * Alreshidi E, [**Mourshed M**](https://scholar.google.co.uk/citations?user=EIQ6h-wAAAAJ), [Rezgui Y](https://scholar.google.co.uk/citations?user=jJ7ohdwAAAAJ) (2016) The development process of a cloud–based BIM governance platform, In: Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE2016), Osaka, Japan, 6–8 July.
 
