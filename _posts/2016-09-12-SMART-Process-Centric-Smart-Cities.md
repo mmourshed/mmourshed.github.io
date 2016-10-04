@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMART: A process-oriented methodology for resilient smart cities
+title: A process-oriented methodology for resilient smart cities
 ---
 
 ![Figure]({{ site.url }}/assets/SMART.png)
