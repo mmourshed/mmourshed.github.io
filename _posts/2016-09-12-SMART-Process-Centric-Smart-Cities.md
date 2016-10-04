@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SMART---A process-oriented methodology for resilient smart cities
+title: SMART. A process-oriented methodology for resilient smart cities
 ---
 
 The inference of insights from big data in smart cities and the subsequent integration with processes (city and governance, existing and emerging) is as important as the development of a smart application, if not more. [Antonio Bucchiarone](http://soa.fbk.eu/bucchiarone/), [Fahmida Khandokar](http://www.linkedin.com/in/fahmida-khandokar-26b40834) and I presented our work on [process-centric smart cities methodology](https://www.researchgate.net/publication/305651106_SMART_A_process-oriented_methodology_for_resilient_smart_cities?ev=prf_pub) at the [Second IEEE International Conference on Smart Cities](http://events.unitn.it/en/isc2-2016) (ISC2-2016).

@@ -275,3 +275,14 @@ a.sidebar-nav-item:focus {
     border-radius: 50%;
     border: 2px solid rgba(255, 255, 255, .5);
 }
+
+
+/* Mourshed stuff */
+#mmsocial ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 150%;
+}
+
+#mmsocial ul li { display: inline; }
