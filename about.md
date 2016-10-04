@@ -11,16 +11,14 @@ As an interdisciplinary academic, I work in the broader field of **smart, resili
 
 ## Research summary
 
-After graduating in Architecture in 1999 and a short spell as a Lecturer, I started PhD in 2001 at  
-[University College Cork](https://www.ucc.ie/en/civileng/) (UCC) to investigate the role of **building simulation and mathematical optimisation in sustainable architectural design**. I developed ArDOT,
+After graduating in Architecture in 1999 and a short spell as a Lecturer, I started PhD in 2001 at [University College Cork](https://www.ucc.ie/en/civileng/) (UCC) to investigate the role of [building simulation and mathematical optimisation in sustainable architectural design](https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/10292/7/MourshedThesis.pdf). I developed ArDOT,
 a BIM-based software framework for multi-domain, multicriteria optimisation of buildings to minimise energy consumption at optimum indoor environmental conditions. The PhD research was recognised with an
 [International Building Performance Simulation
-Association](http://ibpsa.org) award and laid the foundation for subsequent research in optimisation, and design of high performance buildings. Post PhD, I
-moved to [Loughborough University](http://www.lboro.ac.uk/) in 2007, after being at the [University of Central Lancashire](http://www.uclan.ac.uk/) lecturing architectural design and technology for 2003--07. At Loughborough, I
-[worked](http://www.haciric.org/about-us/our-people/researchers) in the interstitial areas of **building simulation, design optimisation and environmental psychology** as part of the £11M
-[EPSRC funded](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D039614/1) [Health and Care Infrastructure Research and Innovation Centre, HaCIRIC](http://www.haciric.org/)---exploring the
-**relationship between physical environments, projected increases
-in temperature, and occupant health and wellbeing**. I was a [Co-I in the EPSRC project](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=TS/H002782/1) that developed a simulation-based
+Association](http://ibpsa.org) award and laid the foundation for subsequent research in optimisation, and design of high performance buildings. 
+
+Post PhD, I moved to [Loughborough University](http://www.lboro.ac.uk/) in 2007, after being at the [University of Central Lancashire](http://www.uclan.ac.uk/) lecturing architectural design and technology for 2003--07. At Loughborough, I
+[worked](http://www.haciric.org/about-us/our-people/researchers) in the interstitial areas of [building simulation](http://www.haciric.org/our-projects/WP2-Delivery-of-enhanced-performance-and-value-through-the-application-of-advanced-modelling-simulation-and-visualisation-to-the-design-and-operation-of-healthcare-facilities/), [design optimisation](http://www.haciric.org/our-projects/Develop-a-decision-support-system-through-modelling-and-simulation-to-optimise-lighting-design-of-healthcare-spaces/) and [environmental psychology](http://www.haciric.org/our-projects/Identify-and-develop-theory-on-various-performance-indicators-parameters-and-modelling-approaches-to-be-considered-during-the-design-of-healthcare-facilities/) as part of the £11M [EPSRC funded](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D039614/1) [Health and Care Infrastructure Research and Innovation Centre, HaCIRIC](http://www.haciric.org/)---exploring the
+**relationship between physical environments, projected increases in temperature, and occupant health and wellbeing**. I was a [Co-I in the EPSRC project](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=TS/H002782/1) that developed a simulation-based
 optimisation tool for minimising building carbon emissions and water use. I also secured two grants as PI from the [British Council](https://www.britishcouncil.org/) and 
 [Department of Energy and Climate Change, DECC](https://www.gov.uk/government/organisations/department-of-energy-
 climate-change) on
