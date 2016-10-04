@@ -5,27 +5,46 @@ title: About
 I am Senior Lecturer in Sustainable Engineering at the School of Engineering, Cardiff University, UK.
 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Research interests
 
-There are currently two themes built on Poole:
+As an interdisciplinary academic, I work in the broader field of **smart, resilient and sustainable buildings and cities**, with a focus on the cross-cutting areas linking **climate** (anthropogenic change mitigation, and adaptation), **energy** (demand vs. supply, building and district energy systems, smart grids, renewable energy, and decarbonisation), and **environment** (sustainable building and urban design, and urban thermal island)-–-underpinned by methods from **building physics** (modelling and simulation), **information technology** (building information modelling--BIM, computational intelligence, and remote sensing) and **environmental psychology**---with the end goal being the **development of new methods, processes and tools to enhance the policy and practice of sustainable development**.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Research summary
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+After graduating in Architecture in 1999 and a short spell as a Lecturer, I started PhD in 2001 at  
+[University College Cork](https://www.ucc.ie/en/civileng/) (UCC) to investigate the role of **building simulation and mathematical optimisation in sustainable architectural design**. I developed ArDOT,
+a BIM-based software framework for multi-domain, multicriteria optimisation of buildings to minimise energy consumption at optimum indoor environmental conditions. The PhD research was recognised with an
+[International Building Performance Simulation
+Association](http://ibpsa.org) award and laid the foundation for subsequent research in optimisation, and design of high performance buildings. Post PhD, I
+moved to [Loughborough University](http://www.lboro.ac.uk/) in 2007, after being at the [University of Central Lancashire](http://www.uclan.ac.uk/) lecturing architectural design and technology for 2003--07. At Loughborough, I
+[worked](http://www.haciric.org/about-us/our-people/researchers) in the interstitial areas of **building simulation, design optimisation and environmental psychology** as part of the £11M
+[EPSRC funded](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/D039614/1) [Health and Care Infrastructure Research and Innovation Centre, HaCIRIC](http://www.haciric.org/)---exploring the
+**relationship between physical environments, projected increases
+in temperature, and occupant health and wellbeing**. I was a [Co-I in the EPSRC project](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=TS/H002782/1) that developed a simulation-based
+optimisation tool for minimising building carbon emissions and water use. I also secured two grants as PI from the [British Council](https://www.britishcouncil.org/) and 
+[Department of Energy and Climate Change, DECC](https://www.gov.uk/government/organisations/department-of-energy-
+climate-change) on
+**adaptable cities** and **2050 energy pathways** for
+Bangladesh respectively---marking a shift in the scope of my work---from *individual buildings* to *cities and regions*.
 
-## Setup
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!  
+After moving to [Cardiff University](http://www.cardiff.ac.uk) in
+2013, I led the [DECC](https://www.gov.uk/government/organisations/department-of-energy-
+climate-change)-funded development of
+[**2050 national energy, emissions and
+food pathways for Bangladesh**](http://www.bd2050.org), in association with industry, academia
+and the governments of UK and Bangladesh. The research focused on the **socio-economic evolution of energy demand** and how the increasing demand can be met in a without **affecting energy security and carbon intensity**. Key innovations include the
+[open-source release](https://github.com/mmourshed/twenty-fifty) of the entire underlying model and dataset for an energy-informed debate on
+policies. I secured four grants from the European commission (Horizon 2020 and
+FP7), primarily focussing on **resource efficiency** (energy and water) in the built environment. In
+[MAS2TERING](http://www.mas2tering.eu/), I lead the
+development of a multi-agent systems platform for optimal management of the electricity generated by *prosumers* in a district, enabling new business model for **house as a power plant**, in association
+with European utilities. THERMOSS takes the concept further to include district heating systems. In the PERFORMER project, the focus is
+on improving the understanding of the **interactions between users, buildings and energy systems**, as well as on the development of **resource-efficient and resilient built environment**. In addition
+to my research, I am actively invovled in the development of standards
+and processes through the committee memberships in
+[IEEE](http://www.ieee.org) and
+[ASHRAE](http://www.ashrae.org) on **smart cities and climate change** respectively.   
 
 <p class="message">
   Disclaimer: The views presented on this website are my own and do not reflect the opinion of Cardiff University or the organisations I work with. 
