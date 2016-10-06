@@ -1,6 +1,7 @@
 ---
-layout: post
-title: A process-oriented methodology for resilient smart cities
+layout:    post
+comments:  true
+title:     A process-oriented methodology for resilient smart cities
 ---
 
 ![Figure]({{ site.url }}/assets/SMART.png)
