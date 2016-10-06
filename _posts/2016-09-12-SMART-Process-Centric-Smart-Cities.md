@@ -28,3 +28,7 @@ We propose a process-oriented methodology conveniently termed, SMART, involving 
 ## Conclusion
 
 We implemented the SMART methodology for developing a risk- and evidence-based platform for resilient and optimal design of buildings. The concept of domain objects is used to enable adaptability of the software architecture and services. Download the archived version of the paper from [Cardiff University repository](http://bit.ly/2cQ9V76).
+
+### Citation
+> Mourshed M, Bucchiarone A, Khandokar F (2016) SMART: A process-oriented methodology for resilient smart cities, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September, pp. 775–780.
+
