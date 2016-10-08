@@ -6,7 +6,7 @@ author:      Monjur Mourshed
 image:       SMART.png
 categories:  news
 tags:        [Smart cities theory, SMART]
-summary:     "What process should be followed to maximise the utility of smart cities applications?"
+summary:     "Steps to be taken to maximise the utility of smart cities applications"
 ---
 
 ![Figure]({{ site.url }}/assets/SMART.png)

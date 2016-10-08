@@ -16,11 +16,11 @@
 
   <!-- Open Graph meta tags -->
   <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
-  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:description" content="{{ page.summary | escape | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
-  <meta property="og:image" content="{{ site.url }}/asset/{{ page.image }}" />
+  <meta property="og:image" content="{{ site.url }}/assets/{{ page.image }}" />
 
   <title>
     {% if page.title == "Home" %}
