@@ -250,6 +250,18 @@ a.sidebar-nav-item:focus {
   color: #015F87;
 }
 
+/* DarkBlue - Mourshed */
+.theme-base-0d3 .sidebar {
+  background-color: #00264d;
+}
+.theme-base-0d3 .content a,
+.theme-base-0d3 .related-posts li a:hover {
+  color: #3277ae;
+}
+
+
+
+
 /* Magenta */
 .theme-base-0e .sidebar {
   background-color: #aa759f;
@@ -286,3 +298,15 @@ a.sidebar-nav-item:focus {
 }
 
 #mmsocial ul li { display: inline; }
+
+figure {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 1rem;
+  border-radius: 5px;
+}
+
+figcaption {
+  padding-left: 50px;
+  font-style: italic;
+}

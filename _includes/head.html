@@ -3,8 +3,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 
+  <!-- To make search engine friendly -->
+  {% if page.summary %}
+    <meta name="description" content="{{ page.summary | escape }}">
+  {% endif %}
+  {%if page.tags %}
+    <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
+  {%endif %}
+
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <!-- Open Graph meta tags -->
+  <meta property="fb:app_id" content="{{ site.facebook_app_id }}" />
+  <meta property="og:url" content="{{ site.url }}/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.summary | escape | markdownify | strip_html | strip_newlines | truncate: 300 }}" />
+  <meta property="og:image" content="{{ site.url }}/asset/{{ page.image }}" />
 
   <title>
     {% if page.title == "Home" %}

@@ -7,7 +7,7 @@ I am Senior Lecturer in Sustainable Engineering at the School of Engineering, Ca
 
 ## Research interests
 
-As an interdisciplinary academic, I work in the broader field of **smart, resilient and sustainable buildings and cities**, with a focus on the cross-cutting areas linking **climate** (anthropogenic change mitigation, and adaptation), **energy** (demand vs. supply, building and district energy systems, smart grids, renewable energy, and decarbonisation), and **environment** (sustainable building and urban design, and urban thermal island)---underpinned by methods from *building physics* (modelling and simulation), *information technology* (building information modelling--BIM, computational intelligence, and remote sensing) and *environmental psychology*---with the end goal being the **development of new methods, processes and tools to enhance the policy and practice of sustainable development**.
+As an interdisciplinary academic, I work in the broader field of **smart, resilient and sustainable buildings and cities**, with a focus on the cross-cutting areas linking *climate* (anthropogenic change mitigation, and adaptation), **energy** (demand vs. supply, building and district energy systems, smart grids, renewable energy, and decarbonisation), and **environment** (sustainable building and urban design, and urban thermal island)---underpinned by methods from *building physics* (modelling and simulation), *information technology* (building information modelling--BIM, computational intelligence, and remote sensing) and *environmental psychology*---with the end goal being the **development of new methods, processes and tools to enhance the policy and practice of sustainable development**.
 
 ## Research summary
 
