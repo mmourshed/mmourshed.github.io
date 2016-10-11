@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
-permalink:        pretty
+permalink:        /:categories/:title
 #relative_permalinks: true
 
 # Setup
 title:            Monjur Mourshed
 tagline:          'Smart and resilient urban environments'
-description:      'Senior Lecturer in Sustainable Engineering at Cardiff University, UK. Interests: smart and resilient urban environments, energy and buildings, and climate change adaptation.'
+description:      'Smart and resilient urban environments, energy and buildings, and climate change adaptation.'
 url:              http://m.mourshed.org
 baseurl:          /
 

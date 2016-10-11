@@ -290,14 +290,24 @@ a.sidebar-nav-item:focus {
 
 
 /* Mourshed stuff */
-#mmsocial ul {
+#sidebarsocial ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     font-size: 150%;
 }
 
-#mmsocial ul li { display: inline; }
+#sidebarsocial ul li { display: inline; }
+
+#postsocial ul {
+    margin: 0;
+    padding: 0;
+    border-bottom: 1px solid #e6e6e6;
+    list-style-type: none;
+    font-size: 150%;
+}
+#postsocial ul li { display: inline; }
+
 
 figure {
   display: block;
@@ -309,4 +319,13 @@ figure {
 figcaption {
   padding-left: 50px;
   font-style: italic;
+}
+
+div.left {
+    float: left;
+    padding-right: 20px;
+}
+
+div.right {
+    float: right;
 }

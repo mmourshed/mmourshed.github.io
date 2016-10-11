@@ -13,8 +13,16 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.summary }}
+    <div style="width: 100%">
+      <div class="left" style="width: 75%">
+        {{ post.summary4site }}
+      </div>
+      <div class="right" style="width: 25%">
+        {% include imagekey.html name="key-figure-small.png" %}
+      </div>
+      <br style="clear:both;"/>
+    </div>
+    
   </div>
   {% endfor %}
 </div>

@@ -1,15 +1,22 @@
 ---
-layout:      post
-comments:    true
-title:       "SMART: A process-oriented methodology for resilient smart cities"
-author:      Monjur Mourshed
-image:       SMART.png
-categories:  news
-tags:        [Smart cities theory, SMART]
-summary:     "Steps to be taken to maximise the utility of smart cities applications"
+layout:       post
+comments:     true
+title:        "SMART: A process-oriented methodology for resilient smart cities"
+author:       Monjur Mourshed
+image:        SMART.png
+categories:   news
+tags:         [Smart cities theory, SMART]
+summary:      "Steps to be taken to maximise the utility of smart cities applications"
+summary4site: "The inference of insights from big data in smart cities and its integration with business processes are essential to maximise the utility from smart cities implementations. What steps should we take to maximise value from smart cities?"
 ---
 
+{% include image.html name= page.image %}
+
+
+{% comment %}
 ![Figure]({{ site.url }}/assets/SMART.png)
+{% endcomment %}
+
 
 The inference of insights from big data in smart cities and the subsequent integration with the existing and emerging processes are as important as the development of a smart application itself. Product or goal oriented smart cities approaches often result in siloed applications and miss out on the opportunity to maximise value and the return on investment. We developed a process-oriented framework for smart cities applications called, SMART, comprising five key steps: specify, monitor, analyse, resolve and transform. The development of the framework is based on a review of the state-of-the-art on smart cities approaches and policies in UK and Europe, as well as an analysis of the modelling and architectural requirements for resilient buidings. The work has been presented at the 2016 IEEE International Conference on Smart Cities (ISC2). 
 
