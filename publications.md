@@ -5,9 +5,9 @@ title: Publications
 
 ## Journal articles
 
-0. Kadhim N, **Mourshed M** (in press) Bray M. Advances in remote sensing applications for urban sustainability, _Euro-Mediterranean Journal for Environmental Integration_. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
-
 0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, _Requirements Engineering_. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
+
+0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, _Euro-Mediterranean Journal for Environmental Integration_, 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
 
 0. Chowdhury SA, **Mourshed M** (2016) Off-grid electrification with solar home systems: An appraisal of the quality of components, _Renewable Energy_, 97:585–598. DOI: [10.1016/j.renene.2016.06.017](http://dx.doi.org/10.1016/j.renene.2016.06.017)
 
