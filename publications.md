@@ -5,6 +5,12 @@ title: Publications
 
 ## Journal articles
 
+0. Ameen RFM, **Mourshed M** (2017) Urban environmental challenges in developing countries—A stakeholder perspective, _Habitat International_, 64:1–10. DOI: [10.1016/j.habitatint.2017.04.002](http://dx.doi.org/10.1016/j.habitatint.2017.04.002).
+
+0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, _Energy and Buildings_, DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038).
+
+0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, _Journal of Building Engineering_, 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006).
+
 0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, _Requirements Engineering_. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
 
 0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, _Euro-Mediterranean Journal for Environmental Integration_, 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
@@ -27,8 +33,7 @@ title: Publications
 
 0. Lydon GP, Ingham DB, **Mourshed M** (2014) Ultra clean ventilation system performance relating to airborne infections in operating theatres using CFD modelling, _Building Simulation_, 7(3):277–287. DOI: [10.1007/s12273-013-0145-4](http://dx.doi.org/10.1007/s12273-013-0145-4) 
 
-0. Wright JA, Brownlee AE, **Mourshed M**, Wang M (2014) Multi-objective optimization of cellular fenestration by an evolutionary algorithm, _Journal of Building Performance Simulation_, 7(1):33–51.
-DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808) 
+0. Wright JA, Brownlee AE, **Mourshed M**, Wang M (2014) Multi-objective optimization of cellular fenestration by an evolutionary algorithm, _Journal of Building Performance Simulation_, 7(1):33–51. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808) 
 
 0. Hamilton-MacLaren F, Loveday DL, **Mourshed M** (2013) Public opinions on alternative lower carbon wall construction materials for UK housing, _Habitat International_, 37:163–169. DOI: [10.1016/j.habitatint.2011.12.015](http://dx.doi.org/10.1016/j.habitatint.2011.12.015) 
 
@@ -63,10 +68,11 @@ DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.7628
 2. **Mourshed M**, Kelliher D, Keane M (2005) Green architecture: The need for climate analysis and thermal simulation during early stages of design, _Global Built Environment Review_, 5(2):12–20.
 
 1. **Mourshed M**, Kelliher D, Keane M (2003) Integrating building energy simulation in the design process, _IBPSA News_, 13(1):21–26.
-{: reversed="reversed"}
 
 
 ## Conference publications---Peer reviewed
+
+0. Ahmad MW, Hippolyte J–L, **Mourshed M**, Rezgui Y (2017) Random Forests And Articial Neural Network for Predicting Daylight Illuminance and Energy Consumption, In: _Proceedings of Building Simulation_ 2017, San Francisco, CA, 7–9 August. [Accepted]
 
 0. **Mourshed M**, Bucchiarone A, Khandokar F (2016) SMART: A process-oriented methodology for resilient smart cities, In: _Second IEEE International Smart Cities Conference (ISC2 2016)_, Trento, Italy, 12–15 September, pp. 775–780.
 
