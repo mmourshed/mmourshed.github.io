@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ## Journal articles
-
+{: reversed="reversed"}
 0. Ameen RFM, **Mourshed M** (2017) Urban environmental challenges in developing countries—A stakeholder perspective, [_Habitat International_](https://www.journals.elsevier.com/habitat-international), 64:1–10. DOI: [10.1016/j.habitatint.2017.04.002](http://dx.doi.org/10.1016/j.habitatint.2017.04.002).
 
 0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038).
