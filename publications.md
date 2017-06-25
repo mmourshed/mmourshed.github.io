@@ -69,6 +69,7 @@ title: Publications
 
 0. **Mourshed M**, Kelliher D, Keane M (2003) Integrating building energy simulation in the design process, _IBPSA News_, 13(1):21–26.
 
+{: reversed="reversed"}
 
 ## Conference publications---Peer reviewed
 
