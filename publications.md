@@ -33,7 +33,7 @@ title: Publications
 
 0. Lydon GP, Ingham DB, **Mourshed M** (2014) Ultra clean ventilation system performance relating to airborne infections in operating theatres using CFD modelling, _Building Simulation_, 7(3):277–287. DOI: [10.1007/s12273-013-0145-4](http://dx.doi.org/10.1007/s12273-013-0145-4) 
 
-0. Wright JA, Brownlee AE, **Mourshed M**, Wang M (2014) Multi-objective optimization of cellular fenestration by an evolutionary algorithm, _Journal of Building Performance Simulation_, 7(1):33–51. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808) 
+0. Wright JA, Brownlee AE, **Mourshed M**, Wang M (2014) Multi-objective optimization of cellular fenestration by an evolutionary algorithm, [_Journal of Building Performance Simulation_](http://www.tandfonline.com/action/journalInformation?journalCode=tbps20), 7(1):33–51. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808)
 
 0. Hamilton-MacLaren F, Loveday DL, **Mourshed M** (2013) Public opinions on alternative lower carbon wall construction materials for UK housing, _Habitat International_, 37:163–169. DOI: [10.1016/j.habitatint.2011.12.015](http://dx.doi.org/10.1016/j.habitatint.2011.12.015) 
 
@@ -57,7 +57,7 @@ title: Publications
 
 0. Chowdhury SA, **Mourshed M**, Kabir SMR, Islam M, Morshed T, Khan MR, Patwary MN (2011) Technical appraisal of solar home systems in Bangladesh: A field investigation, _Renewable Energy_, 36(2):772–778. DOI: [10.1016/j.renene.2010.07.027](http://dx.doi.org/10.1016/j.renene.2010.07.027) 
 
-0. Osaji EE, Price A, **Mourshed M** (2010) The role of building performance simulation in the optimization of healthcare building design [Editorial], _Journal of Building Performance Simulation_, 3(3):169. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808) 
+0. Osaji EE, Price A, **Mourshed M** (2010) The role of building performance simulation in the optimization of healthcare building design [Editorial], [_Journal of Building Performance Simulation_](http://www.tandfonline.com/action/journalInformation?journalCode=tbps20), 3(3):169. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808)
 
 0. Joarder MAR, Price A, **Mourshed M** (2010) Access to daylight and outdoor views: A comparative study for therapeutic daylighting design, _World Health Design_, 3(1):62–69.
 
