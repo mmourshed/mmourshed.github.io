@@ -9,59 +9,59 @@ title: Publications
 
 0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038).
 
-0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, _Journal of Building Engineering_, 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006).
+0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, [_Journal of Building Engineering_](https://www.journals.elsevier.com/journal-of-building-engineering/), 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006).
 
-0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, _Requirements Engineering_. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
+0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, [_Requirements Engineering_](https://link.springer.com/journal/766). DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
 
-0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, _Euro-Mediterranean Journal for Environmental Integration_, 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
+0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, [_Euro-Mediterranean Journal for Environmental Integration_](https://link.springer.com/journal/41207), 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
 
-0. Chowdhury SA, **Mourshed M** (2016) Off-grid electrification with solar home systems: An appraisal of the quality of components, _Renewable Energy_, 97:585–598. DOI: [10.1016/j.renene.2016.06.017](http://dx.doi.org/10.1016/j.renene.2016.06.017)
+0. Chowdhury SA, **Mourshed M** (2016) Off-grid electrification with solar home systems: An appraisal of the quality of components, [_Renewable Energy_](https://www.journals.elsevier.com/renewable-energy/), 97:585–598. DOI: [10.1016/j.renene.2016.06.017](http://dx.doi.org/10.1016/j.renene.2016.06.017)
 
-0. **Mourshed M** (2016) Climatic parameters for building energy applications: A temporalgeospatial assessment of temperature indicators, _Renewable Energy_, 94:55–71. DOI: [10.1016/j.renene.2016.03.021](http://dx.doi.org/10.1016/j.renene.2016.03.021) 
+0. **Mourshed M** (2016) Climatic parameters for building energy applications: A temporalgeospatial assessment of temperature indicators, [_Renewable Energy_](https://www.journals.elsevier.com/renewable-energy/), 94:55–71. DOI: [10.1016/j.renene.2016.03.021](http://dx.doi.org/10.1016/j.renene.2016.03.021) 
 
-0. Alreshidi E, **Mourshed M**, Rezgui Y (2016) Cloud-based BIM governance platform requirements and specifications: Software engineering approach using BPMN and UML, _ASCE Journal of Computing in Civil Engineering_, 30(4):04015063. DOI: [10.1061/(ASCE)CP.1943-5487.0000539](http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000539) 
+0. Alreshidi E, **Mourshed M**, Rezgui Y (2016) Cloud-based BIM governance platform requirements and specifications: Software engineering approach using BPMN and UML, [_ASCE Journal of Computing in Civil Engineering_](http://ascelibrary.org/journal/jccee5), 30(4):04015063. DOI: [10.1061/(ASCE)CP.1943-5487.0000539](http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000539)
 
 0. Yuce B, Rezgui Y, **Mourshed M** (2016) ANN-GA smart appliance scheduling for optimized energy management in the domestic sector, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 111:311–325. DOI: [10.1016/j.enbuild.2015.11.017](http://dx.doi.org/10.1016/j.enbuild.2015.11.017)
 
-0. Al-Shaqi R, **Mourshed M**, Rezgui Y (2016) Progress in ambient assisted systems for independent living by the elderly, _SpringerPlus_, 5:624. DOI: [10.1186/s40064-016-2272-8](http://dx.doi.org/10.1186/s40064-016-2272-8) 
+0. Al-Shaqi R, **Mourshed M**, Rezgui Y (2016) Progress in ambient assisted systems for independent living by the elderly, [_SpringerPlus_](https://springerplus.springeropen.com/), 5:624. DOI: [10.1186/s40064-016-2272-8](http://dx.doi.org/10.1186/s40064-016-2272-8)
 
 0. Ahmad MW, **Mourshed M**, Mundow D, Sisinni M, Rezgui Y (2016) Building energy metering and environmental monitoring – A state-of-the-art review and directions for future research, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 120:85–102. DOI: [10.1016/j.enbuild.2016.03.059](http://dx.doi.org/10.1016/j.enbuild.2016.03.059)
 
-0. Ahmad MW, **Mourshed M**, Yuce B, Rezgui Y (2016) Computational intelligence techniques for HVAC systems: A review, _Building Simulation_, 9(4):359–398. DOI: [10.1007/s12273-016-0285-4](http://dx.doi.org/10.1007/s12273-016-0285-4) 
+0. Ahmad MW, **Mourshed M**, Yuce B, Rezgui Y (2016) Computational intelligence techniques for HVAC systems: A review, [_Building Simulation_](https://link.springer.com/journal/12273), 9(4):359–398. DOI: [10.1007/s12273-016-0285-4](http://dx.doi.org/10.1007/s12273-016-0285-4) 
 
-0. Ameen RFM, **Mourshed M**, Li H (2015) A critical review of environmental assessment tools for sustainable urban design, _Environmental Impact Assessment Review_, 55:110–125. DOI: [10.1016/j.eiar.2015.07.006](http://dx.doi.org/10.1016/j.eiar.2015.07.006) 
+0. Ameen RFM, **Mourshed M**, Li H (2015) A critical review of environmental assessment tools for sustainable urban design, [_Environmental Impact Assessment Review_](https://www.journals.elsevier.com/environmental-impact-assessment-review), 55:110–125. DOI: [10.1016/j.eiar.2015.07.006](http://dx.doi.org/10.1016/j.eiar.2015.07.006)
 
-0. Lydon GP, Ingham DB, **Mourshed M** (2014) Ultra clean ventilation system performance relating to airborne infections in operating theatres using CFD modelling, _Building Simulation_, 7(3):277–287. DOI: [10.1007/s12273-013-0145-4](http://dx.doi.org/10.1007/s12273-013-0145-4) 
+0. Lydon GP, Ingham DB, **Mourshed M** (2014) Ultra clean ventilation system performance relating to airborne infections in operating theatres using CFD modelling, [_Building Simulation_](https://link.springer.com/journal/12273), 7(3):277–287. DOI: [10.1007/s12273-013-0145-4](http://dx.doi.org/10.1007/s12273-013-0145-4) 
 
 0. Wright JA, Brownlee AE, **Mourshed M**, Wang M (2014) Multi-objective optimization of cellular fenestration by an evolutionary algorithm, [_Journal of Building Performance Simulation_](http://www.tandfonline.com/action/journalInformation?journalCode=tbps20), 7(1):33–51. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808)
 
-0. Hamilton-MacLaren F, Loveday DL, **Mourshed M** (2013) Public opinions on alternative lower carbon wall construction materials for UK housing, _Habitat International_, 37:163–169. DOI: [10.1016/j.habitatint.2011.12.015](http://dx.doi.org/10.1016/j.habitatint.2011.12.015) 
+0. Hamilton-MacLaren F, Loveday DL, **Mourshed M** (2013) Public opinions on alternative lower carbon wall construction materials for UK housing, [_Habitat International_](https://www.journals.elsevier.com/habitat-international), 37:163–169. DOI: [10.1016/j.habitatint.2011.12.015](http://dx.doi.org/10.1016/j.habitatint.2011.12.015)
 
 0. **Mourshed M** (2012) Relationship between annual mean temperature and degree-days, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 54:418–425. DOI: [10.1016/j.enbuild.2012.07.024](http://dx.doi.org/10.1016/j.enbuild.2012.07.024)
 
-0. **Mourshed M** (2012) Pitfalls of oil-based expansion of electricity generation in a developing context, _Energy Strategy Reviews_, 1(3):205–210. DOI: [10.1016/j.esr.2012.08.001](http://dx.doi.org/10.1016/j.esr.2012.08.001) 
+0. **Mourshed M** (2012) Pitfalls of oil-based expansion of electricity generation in a developing context, [_Energy Strategy Reviews_](https://www.journals.elsevier.com/energy-strategy-reviews/), 1(3):205–210. DOI: [10.1016/j.esr.2012.08.001](http://dx.doi.org/10.1016/j.esr.2012.08.001)
 
 0. Shikder S, **Mourshed M**, Price A (2012) Summertime impact of climate change on multioccupancy British dwellings, _Open House International_, 37(4):50–60.
 
-0. **Mourshed M**, Zhao Y (2012) Healthcare providers’ perception of design factors related to physical environments in hospitals, _Journal of Environmental Psychology_, 32(4):362–370. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.06.004) 
+0. **Mourshed M**, Zhao Y (2012) Healthcare providers’ perception of design factors related to physical environments in hospitals, [_Journal of Environmental Psychology_](https://www.journals.elsevier.com/journal-of-environmental-psychology/), 32(4):362–370. DOI: [10.1016/j.jenvp.2012.06.004](http://dx.doi.org/10.1016/j.jenvp.2012.06.004)
 
-0. Zhao Y, **Mourshed M** (2012) Design indicators for better accommodation environments in hospitals: Inpatients’ perceptions, _Intelligent Buildings International_, 4(4):199–215. DOI: [10.1080/17508975.2012.701186](http://dx.doi.org/10.1080/17508975.2012.701186) 
+0. Zhao Y, **Mourshed M** (2012) Design indicators for better accommodation environments in hospitals: Inpatients’ perceptions, [_Intelligent Buildings International_](http://www.tandfonline.com/action/journalInformation?journalCode=tibi20), 4(4):199–215. DOI: [10.1080/17508975.2012.701186](http://dx.doi.org/10.1080/17508975.2012.701186)
 
-0. Shikder S, **Mourshed M**, Price A (2012) Therapeutic lighting design for the elderly: A review, _Perspectives in Public Health_. 132(6):282–291. DOI: [10.1177/1757913911422288](http://dx.doi.org/10.1177/1757913911422288) 
+0. Shikder S, **Mourshed M**, Price A (2012) Therapeutic lighting design for the elderly: A review, [_Perspectives in Public Health_](http://journals.sagepub.com/home/rsh). 132(6):282–291. DOI: [10.1177/1757913911422288](http://dx.doi.org/10.1177/1757913911422288)
 
 0. Mallick FH, **Mourshed M** (2012) Adapting buildings to climate change [Editorial], _Open House International_, 37(4):14–18.
 
-0. **Mourshed M**, Shikder S, Price A (2011) Phi-array: A novel method for fitness visualization and decision making in evolutionary design optimization, _Advanced Engineering Informatics_, 25(4):676–687. DOI: [10.1016/j.aei.2011.07.005](http://dx.doi.org/10.1016/j.aei.2011.07.005) 
+0. **Mourshed M**, Shikder S, Price A (2011) Phi-array: A novel method for fitness visualization and decision making in evolutionary design optimization, [_Advanced Engineering Informatics_](https://www.journals.elsevier.com/advanced-engineering-informatics/), 25(4):676–687. DOI: [10.1016/j.aei.2011.07.005](http://dx.doi.org/10.1016/j.aei.2011.07.005)
 
-0. **Mourshed M** (2011) The impact of the projected changes in temperature on heating and cooling requirements in buildings in Dhaka, Bangladesh, _Applied Energy_, 88(11):3737–3746. DOI: [10.1016/j.apenergy.2011.05.024](http://dx.doi.org/10.1016/j.apenergy.2011.05.024) 
+0. **Mourshed M** (2011) The impact of the projected changes in temperature on heating and cooling requirements in buildings in Dhaka, Bangladesh, [_Applied Energy_](https://www.journals.elsevier.com/applied-energy/), 88(11):3737–3746. DOI: [10.1016/j.apenergy.2011.05.024](http://dx.doi.org/10.1016/j.apenergy.2011.05.024)
 
-0. Chowdhury SA, **Mourshed M**, Kabir SMR, Islam M, Morshed T, Khan MR, Patwary MN (2011) Technical appraisal of solar home systems in Bangladesh: A field investigation, _Renewable Energy_, 36(2):772–778. DOI: [10.1016/j.renene.2010.07.027](http://dx.doi.org/10.1016/j.renene.2010.07.027) 
+0. Chowdhury SA, **Mourshed M**, Kabir SMR, Islam M, Morshed T, Khan MR, Patwary MN (2011) Technical appraisal of solar home systems in Bangladesh: A field investigation, [_Renewable Energy_](https://www.journals.elsevier.com/renewable-energy/), 36(2):772–778. DOI: [10.1016/j.renene.2010.07.027](http://dx.doi.org/10.1016/j.renene.2010.07.027) 
 
 0. Osaji EE, Price A, **Mourshed M** (2010) The role of building performance simulation in the optimization of healthcare building design [Editorial], [_Journal of Building Performance Simulation_](http://www.tandfonline.com/action/journalInformation?journalCode=tbps20), 3(3):169. DOI: [10.1080/19401493.2012.762808](http://dx.doi.org/10.1080/19401493.2012.762808)
 
 0. Joarder MAR, Price A, **Mourshed M** (2010) Access to daylight and outdoor views: A comparative study for therapeutic daylighting design, _World Health Design_, 3(1):62–69.
 
-0. **Mourshed M**, Quddus MA (2009) Renewable energy RD&D expenditure and CO2 emissions in 15 European countries, _International Journal of Energy Sector Management_, 3(2):187–202. DOI: [10.1108/17506220910970588](http://dx.doi.org/10.1108/17506220910970588) 
+0. **Mourshed M**, Quddus MA (2009) Renewable energy RD&D expenditure and CO2 emissions in 15 European countries, [_International Journal of Energy Sector Management_](http://www.emeraldinsight.com/journal/ijesm), 3(2):187–202. DOI: [10.1108/17506220910970588](http://dx.doi.org/10.1108/17506220910970588)
 
 0. **Mourshed M**, Khattab O (2006) Green architecture and the politics of climate change [Editorial], _Global Built Environment Review_, 5(3):1–2.
 
