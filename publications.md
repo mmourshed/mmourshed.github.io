@@ -65,9 +65,9 @@ title: Publications
 
 0. **Mourshed M**, Khattab O (2006) Green architecture and the politics of climate change [Editorial], _Global Built Environment Review_, 5(3):1–2.
 
-2. **Mourshed M**, Kelliher D, Keane M (2005) Green architecture: The need for climate analysis and thermal simulation during early stages of design, _Global Built Environment Review_, 5(2):12–20.
+0. **Mourshed M**, Kelliher D, Keane M (2005) Green architecture: The need for climate analysis and thermal simulation during early stages of design, _Global Built Environment Review_, 5(2):12–20.
 
-1. **Mourshed M**, Kelliher D, Keane M (2003) Integrating building energy simulation in the design process, _IBPSA News_, 13(1):21–26.
+0. **Mourshed M**, Kelliher D, Keane M (2003) Integrating building energy simulation in the design process, _IBPSA News_, 13(1):21–26.
 
 
 ## Conference publications---Peer reviewed
