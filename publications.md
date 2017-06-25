@@ -21,7 +21,7 @@ title: Publications
 
 0. Alreshidi E, **Mourshed M**, Rezgui Y (2016) Cloud-based BIM governance platform requirements and specifications: Software engineering approach using BPMN and UML, _ASCE Journal of Computing in Civil Engineering_, 30(4):04015063. DOI: [10.1061/(ASCE)CP.1943-5487.0000539](http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000539) 
 
-0. Yuce B, Rezgui Y, **Mourshed M** (2016) ANN-GA smart appliance scheduling for optimized energy management in the domestic sector, _Energy and Buildings_, 111:311–325. DOI: [10.1016/j.enbuild.2015.11.017](http://dx.doi.org/10.1016/j.enbuild.2015.11.017) 
+0. Yuce B, Rezgui Y, **Mourshed M** (2016) ANN-GA smart appliance scheduling for optimized energy management in the domestic sector, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 111:311–325. DOI: [10.1016/j.enbuild.2015.11.017](http://dx.doi.org/10.1016/j.enbuild.2015.11.017)
 
 0. Al-Shaqi R, **Mourshed M**, Rezgui Y (2016) Progress in ambient assisted systems for independent living by the elderly, _SpringerPlus_, 5:624. DOI: [10.1186/s40064-016-2272-8](http://dx.doi.org/10.1186/s40064-016-2272-8) 
 
