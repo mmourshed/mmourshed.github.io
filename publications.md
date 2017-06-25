@@ -5,15 +5,15 @@ title: Publications
 
 ## Journal articles
 {: reversed="reversed"}
-0. Ameen RFM, **Mourshed M** (2017) Urban environmental challenges in developing countries—A stakeholder perspective, [_Habitat International_](https://www.journals.elsevier.com/habitat-international), 64:1–10. DOI: [10.1016/j.habitatint.2017.04.002](http://dx.doi.org/10.1016/j.habitatint.2017.04.002).
+0. Ameen RFM, **Mourshed M** (2017) Urban environmental challenges in developing countries—A stakeholder perspective, [_Habitat International_](https://www.journals.elsevier.com/habitat-international), 64:1–10. DOI: [10.1016/j.habitatint.2017.04.002](http://dx.doi.org/10.1016/j.habitatint.2017.04.002)
 
-0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038).
+0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038)
 
-0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, [_Journal of Building Engineering_](https://www.journals.elsevier.com/journal-of-building-engineering/), 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006).
+0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, [_Journal of Building Engineering_](https://www.journals.elsevier.com/journal-of-building-engineering/), 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006)
 
-0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, [_Requirements Engineering_](https://link.springer.com/journal/766). DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
+0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, [_Requirements Engineering_](https://link.springer.com/journal/766). DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6)
 
-0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, [_Euro-Mediterranean Journal for Environmental Integration_](https://link.springer.com/journal/41207), 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4).
+0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, [_Euro-Mediterranean Journal for Environmental Integration_](https://link.springer.com/journal/41207), 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4)
 
 0. Chowdhury SA, **Mourshed M** (2016) Off-grid electrification with solar home systems: An appraisal of the quality of components, [_Renewable Energy_](https://www.journals.elsevier.com/renewable-energy/), 97:585–598. DOI: [10.1016/j.renene.2016.06.017](http://dx.doi.org/10.1016/j.renene.2016.06.017)
 
