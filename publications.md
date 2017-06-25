@@ -68,7 +68,6 @@ title: Publications
 0. **Mourshed M**, Kelliher D, Keane M (2005) Green architecture: The need for climate analysis and thermal simulation during early stages of design, _Global Built Environment Review_, 5(2):12–20.
 
 0. **Mourshed M**, Kelliher D, Keane M (2003) Integrating building energy simulation in the design process, _IBPSA News_, 13(1):21–26.
-
 {: reversed="reversed"}
 
 ## Conference publications---Peer reviewed
@@ -153,8 +152,7 @@ title: Publications
 
 0. **Mourshed M**, Matipa W, Kelliher D, Keane M (2002) Towards interoperability: ICT in academic curricula for sustainable construction. In: CIB W107 1st International Conference: creating a sustainable construction industry in developing countries, 11-13 November 2002, Stellenbosch, South Africa.
 
-0. **Mourshed M**, Kelliher D, Keane MM (2001) Spatial representation in product modelling. In: E Banissi et al. (eds), Fifth International Conference on Information Visualisation (IV’01).
-London, UK: IEEE Computer Society, pp. 651-656. DOI: [10.1109/IV.2001.942125](http://dx.doi.org/10.1109/IV.2001.942125)
+0. **Mourshed M**, Kelliher D, Keane MM (2001) Spatial representation in product modelling. In: E Banissi et al. (eds), Fifth International Conference on Information Visualisation (IV’01). London, UK: IEEE Computer Society, pp. 651-656. DOI: [10.1109/IV.2001.942125](http://dx.doi.org/10.1109/IV.2001.942125)
 {: reversed="reversed"}
 
 ## Conference articles (non peer-reviewed)
