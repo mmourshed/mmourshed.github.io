@@ -25,7 +25,7 @@ title: Publications
 
 0. Al-Shaqi R, **Mourshed M**, Rezgui Y (2016) Progress in ambient assisted systems for independent living by the elderly, _SpringerPlus_, 5:624. DOI: [10.1186/s40064-016-2272-8](http://dx.doi.org/10.1186/s40064-016-2272-8) 
 
-0. Ahmad MW, **Mourshed M**, Mundow D, Sisinni M, Rezgui Y (2016) Building energy metering and environmental monitoring – A state-of-the-art review and directions for future research, _Energy and Buildings_, 120:85–102. DOI: [10.1016/j.enbuild.2016.03.059](http://dx.doi.org/10.1016/j.enbuild.2016.03.059) 
+0. Ahmad MW, **Mourshed M**, Mundow D, Sisinni M, Rezgui Y (2016) Building energy metering and environmental monitoring – A state-of-the-art review and directions for future research, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 120:85–102. DOI: [10.1016/j.enbuild.2016.03.059](http://dx.doi.org/10.1016/j.enbuild.2016.03.059)
 
 0. Ahmad MW, **Mourshed M**, Yuce B, Rezgui Y (2016) Computational intelligence techniques for HVAC systems: A review, _Building Simulation_, 9(4):359–398. DOI: [10.1007/s12273-016-0285-4](http://dx.doi.org/10.1007/s12273-016-0285-4) 
 
@@ -37,7 +37,7 @@ title: Publications
 
 0. Hamilton-MacLaren F, Loveday DL, **Mourshed M** (2013) Public opinions on alternative lower carbon wall construction materials for UK housing, _Habitat International_, 37:163–169. DOI: [10.1016/j.habitatint.2011.12.015](http://dx.doi.org/10.1016/j.habitatint.2011.12.015) 
 
-0. **Mourshed M** (2012) Relationship between annual mean temperature and degree-days, _Energy and Buildings_, 54:418–425. DOI: [10.1016/j.enbuild.2012.07.024](http://dx.doi.org/10.1016/j.enbuild.2012.07.024) 
+0. **Mourshed M** (2012) Relationship between annual mean temperature and degree-days, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), 54:418–425. DOI: [10.1016/j.enbuild.2012.07.024](http://dx.doi.org/10.1016/j.enbuild.2012.07.024)
 
 0. **Mourshed M** (2012) Pitfalls of oil-based expansion of electricity generation in a developing context, _Energy Strategy Reviews_, 1(3):205–210. DOI: [10.1016/j.esr.2012.08.001](http://dx.doi.org/10.1016/j.esr.2012.08.001) 
 
