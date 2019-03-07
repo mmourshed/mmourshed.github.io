@@ -5,16 +5,43 @@ title: Publications
 
 ## Journal articles
 {: reversed="reversed"}
-	
-0.	Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings), 147:77-89. DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038)
+
+0. Ameen RFM, **Mourshed M** (2019) Urban sustainability assessment framework development: The ranking and weighting of sustainability indicators using analytic hierarchy process, [_Sustainable Cities and Society_](https://www.journals.elsevier.com/sustainable-cities-and-society), 44:356–366. DOI: [10.1016/j.scs.2018.10.020](http://dx.doi.org/10.1016/j.scs.2018.10.020).
+
+0. Ahmad MW, Mouraud A, Rezgui Y, **Mourshed M** (2018) Deep Highway Networks and Tree-Based Ensemble for Predicting Short-Term Building Energy Consumption, [_Energies_](http://www.mdpi.com/journal/energies), 11(12):3408. DOI: [10.3390/en11123408](http://dx.doi.org/10.3390/en11123408).
+
+0. Ahmad MW, **Mourshed M**, Rezgui Y (2018) Tree–based ensemble methods for predicting PV power generation and their comparison with support vector regression, [_Energy_](https://www.journals.elsevier.com/energy), 164:465–474. DOI: [10.1016/j.energy.2018.08.207](http://dx.doi.org/10.1016/j.energy.2018.08.207).
+
+0. Meng Q, **Mourshed M**, Wei S (2018) Going Beyond the Mean: Distributional Degree-Day Base Temperatures for Building Energy Analytics Using Change Point Quantile Regression, [_IEEE Access_](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639), 6:39532–39540. DOI: [10.1109/ACCESS.2018.2852478](http://dx.doi.org/10.1109/ACCESS.2018.2852478)
+
+0. Debnath KB, **Mourshed M** (2018) Challenges and gaps for energy planning models in the developing-world context, [_Nature Energy_](https://www.nature.com/nenergy/), 3:172–184. DOI: [10.1038/s41560-018-0095-2](http://dx.doi.org/10.1038/s41560-018-0095-2)
+This article was reprinted in Nature India’s special issue, [Grand Challenges: India’s research solutions to real-world problems](https://www.natureasia.com/en/nindia/pdf/special-issues/Nature_India_Grand_Challenges.pdf) in April 2018.
+
+0. Debnath KB, **Mourshed M** (2018) Forecasting methods in energy planning models, [_Renewable & Sustainable Energy Reviews_](https://www.journals.elsevier.com/renewable-and-sustainable-energy-reviews), 88:297–325. DOI: [10.1016/j.rser.2018.02.002](http://dx.doi.org/10.1016/j.rser.2018.02.002)
+
+0. Debnath KB, **Mourshed M** (2018) Corruption Significantly Increases the Capital Cost of Power Plants in Developing Contexts, [_Frontiers in Energy Research_](http://journal.frontiersin.org/journal/energy-research), 6:8. DOI: [10.3389/fenrg.2018.00008](http://dx.doi.org/10.3389/fenrg.2018.00008)
+
+0. Alreshidi E, **Mourshed M**, Rezgui Y (2018) Requirements for cloud-based BIM governance solutions to facilitate team collaboration in construction projects, [_Requirements Engineering_](https://link.springer.com/journal/766), 23(1):1–31. DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6).
+
+0. Kadhim N, **Mourshed M** (2018) A shadow–overlapping algorithm for estimating building heights from VHR satellite images, [_IEEE Geoscience and Remote Sensing Letters_](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8859), 15(1):1–5. DOI: [10.1109/LGRS.2017.2762424](http://dx.doi.org/10.1109/LGRS.2017.2762424)
+
+0. Zhao Y, **Mourshed M** (2017) Patients’ perspectives on the design of hospital outpatient areas, [_Buildings_](http://www.mdpi.com/journal/buildings), 7(4):117. 
+DOI: [10.3390/buildings7040117](http://dx.doi.org/10.3390/buildings7040117)
+
+0. Meng Q, **Mourshed M** (2017) Degree-day based non-domestic building energy analytics and modelling should use building and type specific base temperatures, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings), 155: 260–268. DOI: [10.1016/j.enbuild.2017.09.034](http://dx.doi.org/10.1016/j.enbuild.2017.09.034)
+
+0. Kuster C, Rezgui Y, **Mourshed M** (2017)Electrical load forecasting models: a critical systematic review, [_Sustainable Cities and Society_](https://www.journals.elsevier.com/sustainable-cities-and-society), 35:257–270. DOI: [10.1016/j.scs.2017.08.009](http://dx.doi.org/10.1016/j.scs.2017.08.009)
+
+0. Yuce B, **Mourshed M**, RezguiY(2017)A Smart Forecasting Approach to District Energy Management, [_Energies_](http://www.mdpi.com/journal/energies), 10(8):1073. MDPI.
+IF 2.676 DOI: [10.3390/en10081073](http://dx.doi.org/10.3390/en10081073)
+
+0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings), 147:77-89. DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038)
 
 0. Ameen RFM, **Mourshed M** (2017) Urban environmental challenges in developing countries—A stakeholder perspective, [_Habitat International_](https://www.journals.elsevier.com/habitat-international), 64:1–10. DOI: [10.1016/j.habitatint.2017.04.002](http://dx.doi.org/10.1016/j.habitatint.2017.04.002)
 
 0. Ahmad MW, **Mourshed M**, Rezgui Y (2017) Trees vs Neurons: Comparison between Random Forest and ANN for high-resolution prediction of building energy consumption, [_Energy and Buildings_](https://www.journals.elsevier.com/energy-and-buildings/), DOI: [10.1016/j.enbuild.2017.04.038](http://dx.doi.org/10.1016/j.enbuild.2017.04.038)
 
 0. Alreshidi E, **Mourshed M**, Rezgui Y (2017) Factors for effective BIM governance, [_Journal of Building Engineering_](https://www.journals.elsevier.com/journal-of-building-engineering/), 10:89-101. DOI: [10.1016/j.jobe.2017.02.006](http://dx.doi.org/10.1016/j.jobe.2017.02.006)
-
-0. Alreshidi E, **Mourshed M**, Rezgui Y (in press) Identifying the requirements for developing a cloud-based BIM governance solution to facilitate team collaboration during BIM-based construction projects, [_Requirements Engineering_](https://link.springer.com/journal/766). DOI: [10.1007/s00766-016-0254-6](http://dx.doi.org/10.1007/s00766-016-0254-6)
 
 0. Kadhim N, **Mourshed M** (2016) Bray M. Advances in remote sensing applications for urban sustainability, [_Euro-Mediterranean Journal for Environmental Integration_](https://link.springer.com/journal/41207), 1:7. DOI: [10.1007/s41207-016-0007-4](http://dx.doi.org/10.1007/s41207-016-0007-4)
 
